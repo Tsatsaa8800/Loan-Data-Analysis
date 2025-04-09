@@ -73,4 +73,9 @@ Overall, the analysis reinforces that no single variable explains default risk; 
 - Apply targeted risk controls to loans issued for high-risk purposes like debt consolidation and credit card refinancing, which frequently appear in default clusters.
 
 
+## 🧮 Data Preparation & Validation
+
+The source data for this dashboard originated from an Excel file containing raw loan application records. After cleaning and structuring the dataset in Excel, it was uploaded into SQL Server to allow for scalable querying and efficient integration with Power BI. Key metrics—such as funded amount, repayment totals, interest rates, and default flags—were validated using both SQL queries and DAX calculations in Power BI. This dual validation ensured that all calculations displayed on the dashboard were accurate, consistent, and aligned with the backend logic.
+
+
 
