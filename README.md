@@ -1,7 +1,7 @@
 # Bank Loan Dashboard
 ## Executive Summary
 
-This dashboard provides a clear overview of a bank’s loan portfolio, highlighting trends in applications, funding, repayments, and defaults. While overall growth is strong—with rising application volume and repayment inflows—default rates are also notable, with 13.8% of loans in default.
+This dashboard provides a clear overview of a bank’s loan portfolio for the year of 2021, highlighting trends in applications, funding, repayments, and defaults. While overall growth is strong—with rising application volume and repayment inflows—default rates are also notable, with 13.8% of loans in default.
 
 Deeper analysis shows that defaults are most common among lower-grade borrowers (E–G), renters, and those earning between $30K–$60K. Traditional indicators like long employment history are not reliable predictors of repayment. Instead, combinations of factors—such as loan purpose, housing status, and income—more accurately signal risk.
 
